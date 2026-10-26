@@ -12,7 +12,7 @@ with guardrails against hallucination, explicit human-validation points and clea
 |---|---|---|
 | [critical-thinking-coach](https://github.com/brunolopessalvadori-cpu/critical-thinking-coach) | Coaches users through a 5-step method (5 Whys → Empathy Maps → Tensions → Problem Statement V2 → Crazy 8 + AI) to reframe problems before solving them | Problem framing · Design thinking |
 | [dossier-assistant-prompt](https://github.com/brunolopessalvadori-cpu/dossier-assistant-prompt) | Guides Market Access teams through an 8-step health technology dossier: PICO, systematic review, GRADE, cost-effectiveness and budget impact | HTA · Market Access |
-| [asp-builder-prompt](https://github.com/brunolopessalvadori-cpu/asp-builder-prompt) | Turns a one-line study idea into a structured study proposal draft covering RWE, epidemiology, HEOR and biostatistics | RWE · HEOR |
+| [study-proposal-builder-prompt](https://github.com/brunolopessalvadori-cpu/study-proposal-builder-prompt) | Turns a one-line study idea into a structured study proposal draft covering RWE, epidemiology, HEOR and biostatistics | RWE · HEOR |
 
 ## 🧭 How I design prompts
 
