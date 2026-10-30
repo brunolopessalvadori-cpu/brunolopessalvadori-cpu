@@ -11,6 +11,7 @@ with guardrails against hallucination, explicit human-validation points and clea
 | Project | What it does | Domain |
 |---|---|---|
 | [rental-performance-bi](https://github.com/brunolsalvadori/rental-performance-bi) | Product case: BI for a small short-term rental operation — financial, financing and guest experience KPIs on synthetic data, built with AI-assisted development · [live demo](https://brunolsalvadori.github.io/rental-performance-bi/dashboard/) | Analytics · BI · Data product |
+| [cabin-guest-app](https://github.com/brunolsalvadori/cabin-guest-app) | Product case: mobile-first web guide in production for the guests of a short-term rental cabin — the most-asked information organized by moment of the stay, plus a curated tourist guide | Product management · UX · Hospitality |
 | [critical-thinking-coach](https://github.com/brunolsalvadori/critical-thinking-coach) | Coaches users through a 5-step method (5 Whys → Empathy Maps → Tensions → Problem Statement V2 → Crazy 8 + AI) to reframe problems before solving them | Problem framing · Design thinking |
 
 ## 🧭 How I design prompts
