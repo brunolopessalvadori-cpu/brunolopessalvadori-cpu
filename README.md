@@ -1,6 +1,6 @@
 # Hi, I'm Bruno Salvadori 👋
 
-**AI & Data Product Owner** working on GenAI, analytics and automation in the pharmaceutical industry.
+**Data, AI & Analytics Leader** building data products and GenAI tools in the pharmaceutical industry.
 Ex-Amazon Product Manager · M.Sc. in Operations Research (ITA) · Mechanical Engineer
 
 I design LLM workflows that turn ambiguous problems into structured, decision-ready outputs —
